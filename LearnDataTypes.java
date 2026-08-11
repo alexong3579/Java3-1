@@ -1,6 +1,5 @@
 public class LearnDataTypes {
 
-    
     public static void main(String[] args) {
 
         // int num1 = 10;
@@ -23,7 +22,8 @@ public class LearnDataTypes {
         double value = Double.parseDouble("10.5");
 
         // Adding Suffix
-        long longNum = 198765437655;
+        long longNum = 198765437655L;
+        float f = 1.5f;
 
     }
 
